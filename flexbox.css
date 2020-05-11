@@ -1,0 +1,20 @@
+h1{
+ 	font-size: 3em;
+ 	
+ 	border-bottom: 2px solid pink;
+ 	width: 400px;
+ 	text-align: center;
+}
+
+img{
+	width: 300px;
+	height: 200px;
+	margin: 5px;
+}
+
+.image1{
+	display: flex;
+	justify-content: center;
+		
+	align-content: space-around;
+}
